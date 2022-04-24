@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/digvijayu/spike-source-map/issues"
   },
-  "homepage": "https://github.com/digvijayu/spike-source-map#readme"
+  "homepage": "https://github.com/digvijayu/spike-source-map#readme",
+  "dependencies": {
+    "stackframe": "^1.2.1"
+  }
 }
